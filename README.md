@@ -48,7 +48,7 @@ Current features
 
 - `pip install -r requirements.txt`
 
-- Create `.env` file inside the root directory and include the following variables
+- Create `venv` file inside the root directory and include the following variables
 ```config
 DB_NAME=[YOUR_DB_NAME]
 DB_USER=[DB_ADMIN_NAME]
